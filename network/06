@@ -1,0 +1,2 @@
+the IP address of the DNS server is contained in /etc/resolv.conf, but it's a symlink, so the complete path is:
+/var/run/resolv.conf
